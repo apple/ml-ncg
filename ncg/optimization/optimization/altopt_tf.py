@@ -1,8 +1,3 @@
-"""This module implements the Alternate optimization algorithm harness
-__author__ = 'Saurabh Adya'
-For licensing see accompanying LICENSE.txt file.
-Copyright (C) 2019 Apple Inc. All Rights Reserved.
-"""
 __all__ = ['AltOptimizer']
 
 import tensorflow as tf
