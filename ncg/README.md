@@ -1,5 +1,3 @@
-#For licensing see accompanying LICENSE.txt file.
-#Copyright (C) 2019 Apple Inc. All Rights Reserved.
 ## Optimization module implements the second order Non Linear Conjugate Gradient DNN optimization methods.
 For more details, please refer to [Nonlinear Conjugate Gradients For Scaling Synchronous Distributed DNN Training](https://arxiv.org/abs/1812.02886)
 

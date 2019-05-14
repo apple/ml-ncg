@@ -1,6 +1,3 @@
-#For licensing see accompanying LICENSE.txt file.
-#Copyright (C) 2019 Apple Inc. All Rights Reserved.
-
 from setuptools import setup
 
 NAME = 'optimization'
