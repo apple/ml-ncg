@@ -1,7 +1,7 @@
 # Contribution Guide
 
-  Thanks for your interest in contributing. This project was released to accompany a research paper for purposes of reproducability, and beyond its publication there are limited plans for future development of the repository.
-
+  Thanks for your interest in contributing. This project was released to enable reproducible and continuing research.  The intention is to clearly communicate research progress, and the project may not be under active development.
+  
   While we welcome new pull requests and issues please note that our response may be limited. Forks and out-of-tree improvements are strongly encouraged.
 
   ## Before you get started
