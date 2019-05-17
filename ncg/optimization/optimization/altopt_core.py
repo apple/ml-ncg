@@ -1,3 +1,8 @@
+"""This module implements the core utilities for alternate optimization algorithms
+__author__ = 'Saurabh Adya'
+For licensing see accompanying LICENSE.txt file.
+Copyright (C) 2019 Apple Inc. All Rights Reserved.
+"""
 __all__ = ['lars_grads_and_vars',\
            'reduced_bn_grads_and_vars', 'layer_depth_scaled_grads_and_vars']
 
