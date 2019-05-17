@@ -1,14 +1,14 @@
-## NCG PROJECT 
+# NCG PROJECT 
 Publication Link : *[Nonlinear Conjugate Gradients For Scaling Synchronous Distributed DNN Training](https://arxiv.org/abs/1812.02886)*
 
-This ncg repository consist of two components 
+This NCG repository consist of two components 
 1) the **optimization** package
 2) the **examples** scripts
 
-For usafe details on the above two refer to ncg/README.md
+Usage details both components are described in [ncg/README.md](ncg/README.md).
 
-### Getting Started
-For sanity, work from with in a python virtual environment of your choice.
+## Getting Started
+For sanity, work from with in a Python virtual environment of your choice.
 
 * Building the *optimization package* wheel
 ```
