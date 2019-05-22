@@ -18,5 +18,5 @@
 ### Usage examples for Distributed Tensorflow with Horovod
 
 ```
-  CUDA_VISIBLE_DEVICES=0,1 mpirun --np 2 -H localhost:2 python cifar_dist_train_hvd.py --alt_sync_optimizer Ncg --batch_size 1024 --max_learning_rate 1.6 --initial_learning_rate 0.001 --num_replicas_to_aggregate 2 --dataset cifar100
+  CUDA_VISIBLE_DEVICES=0,1 mpirun --np 2 python cifar_dist_train_hvd.py --alt_sync_optimizer Ncg --batch_size 1024 --max_learning_rate 1.6 --initial_learning_rate 0.001 --num_replicas_to_aggregate 2 --dataset cifar100
 ```
