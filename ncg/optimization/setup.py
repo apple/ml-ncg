@@ -7,7 +7,7 @@ EMAIL = 'sadya@apple.com','vinaypalakkode@apple.com'
 AUTHOR = 'Saurabh Adya', 'Vinay Palakkode'
 VERSION = 0.1
 REQUIRED=['tensorflow-gpu>=1.4, <=1.8',\
-          'horovod==0.13.3']
+          'horovod==0.24.0']
 
 def find_packages():
     return [
